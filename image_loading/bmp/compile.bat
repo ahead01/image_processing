@@ -1,0 +1,1 @@
+tcc test_bmp.c -run bmp.c
